@@ -11,10 +11,10 @@ Released under the [MIT License](https://en.wikipedia.org/wiki/MIT_License).
 
 Developed and tested under openFrameworks v0.10.0 on Ubuntu 16.04.
 
-Example:
 ![image](http://upload.wikimedia.org/wikipedia/commons/e/e5/Gospers_glider_gun.gif)
 
-[source](http://en.wikipedia.org/wiki/File:Gospers_glider_gun.gif)
+
+Example:
 
 declare ofxGameOfLife at `ofApp.h`:
 ```
